@@ -1,17 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHANDU%20D&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/chandud1124.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture"/>
-  
-  # 👋 Hi, I'm **CHANDU D**
+  <img src="https://avatars.githubusercontent.com/u/217531376?v=4" width="150" height="150" style="border-radius: 50%;" alt="Chandu D"/>
   
   ### 🚀 Computer Applications Student | Software Developer | IoT Innovator
-  
-  <p align="center">
-    <em>Full Stack Developer | IoT Engineer | Cloud Enthusiast</em>
-  </p>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.chandugowda.site/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandu-d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFFbKTcqGT5i46rMLSxFWnQ%3D%3D)
@@ -25,10 +19,6 @@
 <div align="center">
 
 ### 👨‍💻 About Me
-
-</div>
-
-<div align="center">
 
 ```javascript
 const chandu = {
@@ -45,15 +35,12 @@ const chandu = {
 
 <div align="center">
 
-🔭 **Currently Working On:** AI Vision Attendance System & Cloud Projects
-
-🌱 **Learning:** AWS, Azure, GCP & Advanced System Design
-
-💡 **Passionate About:** Building real-world solutions with IoT and AI
-
-🎯 **2025 Goal:** Contribute to Open Source & Build Scalable Cloud Solutions
-
-⚡ **Quick Fact:** Built 4+ production-ready projects including Live Emotion Detection & Smart Classroom Automation
+| 🔭 **Currently Working On** | AI Vision Attendance System & Cloud Projects |
+|:----------------------------|:---------------------------------------------|
+| 🌱 **Learning** | AWS, Azure, GCP & Advanced System Design |
+| 💡 **Passionate About** | Building real-world solutions with IoT and AI |
+| 🎯 **2025 Goal** | Contribute to Open Source & Build Scalable Cloud Solutions |
+| ⚡ **Quick Fact** | Built 4+ production-ready projects including Live Emotion Detection & Smart Classroom Automation |
 
 </div>
 
