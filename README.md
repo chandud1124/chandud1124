@@ -2,18 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHANDU%20D&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/217531376?v=4" width="150" height="150" style="border-radius: 50%;" alt="Chandu D"/>
-  
-  ### 🚀 Computer Applications Student | Software Developer | IoT Innovator
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.chandugowda.site/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandu-d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFFbKTcqGT5i46rMLSxFWnQ%3D%3D)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandu3548@gmail.com)
-  [![Location](https://img.shields.io/badge/Bengaluru-Karnataka-green?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-
-</div>
-
 ---
 
 <div align="center">
