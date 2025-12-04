@@ -142,34 +142,21 @@ const chandu = {
 
 ```yaml
 Internships:
-  - Company: "UptoSkills"
-    Role: "Cloud Computing Intern"
-    Duration: "Feb 2025 - May 2025"
-    Focus: "AWS | EC2, S3, Lambda | Real-world cloud projects"
+- Company: "UptoSkills"
+  Role: "Cloud Computing Intern"
+  Duration: "Feb 2025 - May 2025"
+  Focus: "AWS | EC2, S3, Lambda | Real-world cloud projects"
 
-  - Company: "Tech Mindsparc Innovations"
-    Role: "Cloud Computing Intern"
-    Duration: "Sep 2024 - Dec 2024"
-    Skills: "AWS, Azure, GCP | Cloud deployment & resource management"
-  
-  - Company: "Tech Mindsparc Innovations"
-    Role: "AI/ML Intern"
-    Duration: "Jun 2024 - Sep 2024"
-    Skills: "Python | Data preprocessing, ML algorithms, model building"
+- Company: "Tech Mindsparc Innovations"
+  Role: "Cloud Computing Intern"
+  Duration: "Sep 2024 - Dec 2024"
+  Skills: "AWS, Azure, GCP | Cloud deployment & resource management"
+
+- Company: "Tech Mindsparc Innovations"
+  Role: "AI/ML Intern"
+  Duration: "Jun 2024 - Sep 2024"
+  Skills: "Python | Data preprocessing, ML algorithms, model building"
 ```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandud1124&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandud1124&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandud1124&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
 
 ---
 
