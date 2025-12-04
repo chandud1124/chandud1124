@@ -8,18 +8,20 @@
 
 ### 👨‍💻 About Me
 
+</div>
+
 ```javascript
 const chandu = {
-    location: "Bengaluru, Karnataka 🇮🇳",
-    education: "MCA @ AIMS Institutes (2023-2025)",
-    role: "Full Stack Developer & IoT Engineer",
-    currentFocus: ["Cloud Computing", "AI/ML", "IoT Automation"],
-    funFact: "I built a real IoT classroom automation system used in my college! 🎓",
-    lifePhilosophy: "Code. Build. Deploy. Repeat. 🔄"
+  location: "Bengaluru, Karnataka 🇮🇳",
+  education: "MCA @ AIMS Institutes (2023-2025)",
+  role: "Full Stack Developer & IoT Engineer",
+  currentFocus: ["Cloud Computing", "AI/ML", "IoT Automation"],
+  funFact: "I built a real IoT classroom automation system used in my college! 🎓",
+  lifePhilosophy: "Code. Build. Deploy. Repeat. 🔄"
 };
 ```
 
-</div>
+<div align="center">
 
 <div align="center">
 
