@@ -138,7 +138,7 @@ const chandu = {
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
 ```yaml
 Internships:
