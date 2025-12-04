@@ -24,10 +24,9 @@ const chandu = {
 <div align="center">
 
 | 🔭 **Currently Working On** | AI Vision Attendance System & Cloud Projects |
-|:----------------------------|:---------------------------------------------|
+|:----------------------------|:----------------------------------------------|
 | 🌱 **Learning** | AWS, Azure, GCP & Advanced System Design |
 | 💡 **Passionate About** | Building real-world solutions with IoT and AI |
-| 🎯 **2025 Goal** | Contribute to Open Source & Build Scalable Cloud Solutions |
 | ⚡ **Quick Fact** | Built 4+ production-ready projects including Live Emotion Detection & Smart Classroom Automation |
 
 </div>
@@ -140,13 +139,12 @@ const chandu = {
 ### 💼 Experience
 
 ```yaml
-Current_Internship:
-  Company: "UptoSkills"
-  Role: "Cloud Computing Intern"
-  Duration: "Feb 2025 - May 2025"
-  Focus: "AWS | EC2, S3, Lambda | Real-world cloud projects"
+Internships:
+  - Company: "UptoSkills"
+    Role: "Cloud Computing Intern"
+    Duration: "Feb 2025 - May 2025"
+    Focus: "AWS | EC2, S3, Lambda | Real-world cloud projects"
 
-Previous_Internships:
   - Company: "Tech Mindsparc Innovations"
     Role: "Cloud Computing Intern"
     Duration: "Sep 2024 - Dec 2024"
@@ -157,23 +155,6 @@ Previous_Internships:
     Duration: "Jun 2024 - Sep 2024"
     Skills: "Python | Data preprocessing, ML algorithms, model building"
 ```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandud1124&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandud1124&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandud1124&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandud1124&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
-</div>
 
 ---
 
@@ -235,7 +216,4 @@ Previous_Internships:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
-  **⭐ From [chandud1124](https://github.com/chandud1124) | Made with 💙 and lots of ☕**
-  
 </div>
