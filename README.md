@@ -23,8 +23,6 @@ const chandu = {
 
 <div align="center">
 
-<div align="center">
-
 | 🔭 **Currently Working On** | AI Vision Attendance System & Cloud Projects |
 |:----------------------------|:----------------------------------------------|
 | 🌱 **Learning** | AWS, Azure, GCP & Advanced System Design |
@@ -35,9 +33,9 @@ const chandu = {
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
 <div align="center">
+
+### 🛠️ Tech Stack & Tools
 
 #### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
