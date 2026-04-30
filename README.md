@@ -1,219 +1,215 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHANDU%20D&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chandu.%20D&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full-Stack%20%2B%20DevOps%20Engineer&descSize=16&descAlignY=55" width="100%"/>
 </div>
 
----
+<p align="center">
+  <a href="https://www.chandugowda.site/">Live Portfolio</a>
+  ·
+  <a href="https://github.com/chandud1124">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/chandu-d/">LinkedIn</a>
+</p>
 
 <div align="center">
 
-### 👨‍💻 About Me
+### Available for Full-Time & Contract Roles
+Bengaluru, India · Remote-Ready
+
+> Hello_World.init()
 
 </div>
 
-```javascript
-const chandu = {
-  location: "Bengaluru, Karnataka 🇮🇳",
-  education: "MCA @ AIMS Institutes (2023-2025)",
-  role: "Full Stack Developer & IoT Engineer",
-  currentFocus: ["Cloud Computing", "AI/ML", "IoT Automation"],
-  funFact: "I built a real IoT classroom automation system used in my college! 🎓",
-  lifePhilosophy: "Code. Build. Deploy. Repeat. 🔄"
-};
-```
+## I'm Chandu. D
 
-<div align="center">
+{ Full-Stack + DevOps Engineer }
 
-| 🔭 **Currently Working On** | AI Vision Attendance System & Cloud Projects |
-|:----------------------------|:----------------------------------------------|
-| 🌱 **Learning** | AWS, Azure, GCP & Advanced System Design |
-| 💡 **Passionate About** | Building real-world solutions with IoT and AI |
-| ⚡ **Quick Fact** | Built 4+ production-ready projects including Live Emotion Detection & Smart Classroom Automation |
+I design, build, and ship production-grade web applications, then automate deployment and operations on AWS with Docker, Terraform, and GitHub Actions. Full-stack velocity meets DevOps rigor.
 
-</div>
+### Snapshot
 
----
+| Metric | Value |
+| --- | --- |
+| Projects | 20+ |
+| Certifications | 9+ |
+| Clouds | AWS / Azure / GCP |
 
-<div align="center">
+## About
 
-### 🛠️ Tech Stack & Tools
+Two mindsets. One engineer.
 
-#### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+I am a cloud-native full-stack developer based in Bengaluru, pursuing my MCA while building systems that solve real problems. I believe great software is delivered: tested, containerized, observed, and shipped with confidence.
 
-#### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Skills
 
-#### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+### The Developer
 
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+Builder
 
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+I architect and ship full-stack apps with MERN, Next.js, and FastAPI.
 
-#### 🤖 AI/ML & IoT
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+- React / Next.js
+- Node.js / FastAPI
+- MongoDB / MySQL
+- TypeScript
 
-#### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+### The DevOps Engineer
 
-</div>
+Operator
 
----
+I containerize, automate, and deploy from Dockerfiles to Terraform on AWS and CI/CD in GitHub Actions.
 
-### 🚀 Featured Projects
+- AWS (EC2, S3, ECS, Lambda, CloudFront)
+- Docker / Docker Compose
+- Terraform / IaC
+- GitHub Actions CI/CD
 
-<div align="center">
+### Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+- Frontend: React, Next.js, TypeScript, TailwindCSS, Framer Motion
+- Backend: Node.js, FastAPI, Express, REST, GraphQL
+- Cloud: AWS, Docker, Kubernetes, Terraform, NGINX
+- Data: MongoDB, PostgreSQL, Redis
+- Tools: GitHub Actions, Sentry, Linux, Bash, Python
 
-#### 🎭 Live Emotion Detection System
-**Real-time AI emotion recognition using computer vision**
-- 🔥 Built with Python, OpenCV, YOLOv8, DeepFace
-- 🎯 Detects emotions (happy, sad, angry) in real-time
-- 📹 Supports multiple video sources
-- 💡 Face detection + emotion prediction
+## Experience
 
-</td>
-<td width="50%">
+### Full Stack & IoT Developer
 
-#### 📝 Resume Genie Web App
-**AI-powered Resume Builder with chatbot assistance**
-- ⚛️ ReactJS + MongoDB + Gemini API
-- 🤖 Integrated AI chatbot for real-time help
-- 🎨 Modern, responsive design
-- ✨ Smart resume building experience
+AIMS Institutes · Internship · Jul 2025 – Nov 2025 · Bengaluru, Karnataka, India
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Designed and deployed AutoVolt, a smart IoT classroom automation system for real-time device control using ESP32 microcontrollers and MQTT. Built a full-stack dashboard with React.js and Node.js for monitoring classroom lights, fans, and electrical devices.
 
-#### 🏫 AutoVolt - Smart IoT Classroom
-**Production IoT system controlling college classrooms**
-- 🌐 React.js + Node.js + ESP32 + MQTT
-- 💡 Controls lights, fans, and devices remotely
-- 📱 Web dashboard for easy management
-- ✅ **DEPLOYED & RUNNING** in actual classrooms!
+- React.js
+- Node.js
+- ESP32
+- MQTT
+- IoT
+- Full-Stack
 
-</td>
-<td width="50%">
+### Cloud Intern
 
-#### 👤 AI Vision Attendance System
-**Face recognition-based automated attendance**
-- 🎯 TypeScript + React + Node.js + TensorFlow.js
-- 📸 WebRTC for camera integration
-- 🔐 Secure login & student management
-- 📊 Simple dashboard for tracking
+UptoSkills · Internship · Feb 2025 – May 2025 · Remote
 
-</td>
-</tr>
-</table>
+Designed and deployed cloud-based applications using AWS EC2, S3, and Lambda. Architected serverless solutions for performance and cost.
 
-</div>
+- AWS EC2
+- S3
+- Lambda
+- IaC
+- Cloud Architecture
 
----
+### Cloud Computing Intern
 
-## 💼 Experience
+Tech Mindsparc Innovations · Internship · Sep 2024 – Dec 2024 · Remote
 
-```yaml
-Internships:
-- Company: "UptoSkills"
-  Role: "Cloud Computing Intern"
-  Duration: "Feb 2025 - May 2025"
-  Focus: "AWS | EC2, S3, Lambda | Real-world cloud projects"
+Managed multi-cloud deployments across AWS, Azure, and GCP and implemented DevOps automation pipelines.
 
-- Company: "Tech Mindsparc Innovations"
-  Role: "Cloud Computing Intern"
-  Duration: "Sep 2024 - Dec 2024"
-  Skills: "AWS, Azure, GCP | Cloud deployment & resource management"
+- AWS
+- Azure
+- GCP
+- DevOps
+- CI/CD
 
-- Company: "Tech Mindsparc Innovations"
-  Role: "AI/ML Intern"
-  Duration: "Jun 2024 - Sep 2024"
-  Skills: "Python | Data preprocessing, ML algorithms, model building"
-```
+### AI/ML Intern
 
----
+Tech Mindsparc Innovations · Internship · Jun 2024 – Sep 2024 · Remote
 
-### 📈 Contribution Graph
+Built and deployed ML models using Python and PyTorch for emotion analysis and predictive modeling.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandud1124&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
-</div>
+- Python
+- PyTorch
+- ML
+- Model Training
+- Data Analysis
 
----
+## Projects
 
-### 🎓 Certifications & Learning
+### This Portfolio — Ship it on AWS
 
-- 🏆 **Skill-based Learning on TOO AD Topics** - GELP.CA
-- 🔐 **Data Science, AI & Cyber Security & Privacy** - iSTEP
-- ☁️ **Job Roles in Cloud** - AWS Training & Certification
-- 🗄️ **Databases for Developers: Foundations** - Oracle Corporation
+CI/CD, Docker, Terraform, S3 + CloudFront
 
----
+- AWS S3
+- CloudFront
+- Terraform
+- GitHub Actions
 
-### 🎯 Skills Matrix
+### Dockerized MERN on AWS ECS
 
-<div align="center">
+Production-ready MERN deployed on Fargate with Terraform.
 
-| **Category** | **Skills** |
-|--------------|------------|
-| 💼 **Professional** | Project Management, Teamwork, Time Management, Critical Thinking |
-| 🧠 **Technical** | Data Structures & Algorithms, System Design, Problem Solving |
-| 💬 **Soft Skills** | Effective Communication, Collaboration, Adaptability |
+- React
+- Node.js
+- Express
+- MongoDB Atlas
 
-</div>
+### AutoVolt — Smart IoT Classroom Automation
 
----
+Full-stack MERN + ESP32 + MQTT with AI-driven energy optimization.
 
-### 🌟 Profile Views & Connect
+- React
+- Node.js
+- Express
+- MongoDB
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=chandud1124&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+### AI Vision Attendance System
 
-### Let's Build Something Amazing Together! 🚀
+Face-recognition attendance with TensorFlow.js + WebRTC.
 
-[![GitHub](https://img.shields.io/badge/Follow-chandud1124-181717?style=for-the-badge&logo=github)](https://github.com/chandud1124)
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.chandugowda.site/)
+- React (TS)
+- TensorFlow.js
+- BlazeFace
+- WebRTC
 
-</div>
+### ResumeGenie — AI Resume Builder
 
----
+MERN + Gemini AI for building, optimizing, and chatting your resume into shape.
 
-<div align="center">
-  
-### 💭 Random Dev Quote
+- React
+- Node.js
+- Express
+- MongoDB
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Live Emotion Detection System
 
-</div>
+Real-time emotion recognition with YOLOv8 + DeepFace.
 
----
+- Python 3.13
+- OpenCV
+- YOLOv8
+- DeepFace
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+## Certifications
+
+- AWS – Job Roles in the Cloud
+- Cloud Computing – Course Completion
+- Microsoft AI Skills Fest – Guinness World Records
+- Data Science, AI & Cyber Security Masterclass
+- Artificial Intelligence – Course Completion
+- Databases for Developers: Foundations
+- Advanced Python Programming
+- Global Virtual Summit – Career & Skill Development
+- Nationwide Webinar (AICTE Verified)
+
+## Contact
+
+Open to full-time and contract roles across full-stack, DevOps, or cloud engineering.
+
+- Email: chandu3548@gmail.com
+- LinkedIn: linkedin.com/in/chandu-d
+- GitHub: github.com/chandud1124
+- Based in: Bengaluru, India · Remote-Ready
+
+### Availability
+
+- Full-Time + Contract
+- Notice period: ~30 days
+- Timezone: GMT+5:30
+- Response: usually < 24h
+
+## Footer
+
+Built with React 18, TypeScript, Vite, Tailwind, Framer Motion, and Mermaid.js.
+
+Shipped via GitHub Actions to AWS S3 + CloudFront provisioned with Terraform.
+
+Back to the live site: [chandugowda.site](https://www.chandugowda.site/)
