@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.chandugowda.site/">Portfolio</a>
+  <a href="https://chandu-d-portfolio-hub.vercel.app/">Portfolio</a>
   ·
   <a href="https://github.com/chandud1124">GitHub</a>
   ·
@@ -148,5 +148,5 @@ Coursework: Electronics, Mathematics, Computer Science, DSA, DBMS, Operating Sys
 - **Email:** [chandu3548@gmail.com](mailto:chandu3548@gmail.com)
 - **Phone:** +91 6362691124
 - **LinkedIn:** [linkedin.com/in/chandu-d](https://www.linkedin.com/in/chandu-d/)
-- **Portfolio:** [chandugowda.site](https://www.chandugowda.site/)
+- **Portfolio:** [chandu-d-portfolio-hub.vercel.app](https://chandu-d-portfolio-hub.vercel.app/)
 - **GitHub:** [github.com/chandud1124](https://github.com/chandud1124)
