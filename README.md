@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chandu.%20D&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full-Stack%20%2B%20DevOps%20Engineer&descSize=16&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chandu%20D&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Cloud%20%7C%20DevOps&descSize=16&descAlignY=55" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://www.chandugowda.site/">Live Portfolio</a>
+  <a href="https://www.chandugowda.site/">Portfolio</a>
   ·
   <a href="https://github.com/chandud1124">GitHub</a>
   ·
@@ -12,204 +12,141 @@
 
 <div align="center">
 
-### Available for Full-Time & Contract Roles
-Bengaluru, India · Remote-Ready
+### Full-Stack Developer | Cloud | DevOps
 
-> Hello_World.init()
+Bengaluru, India · <a href="mailto:chandu3548@gmail.com">chandu3548@gmail.com</a> · +91 6362691124
 
 </div>
 
-## I'm Chandu. D
-
-{ Full-Stack + DevOps Engineer }
-
-I design, build, and ship production-grade web applications, then automate deployment and operations on AWS with Docker, Terraform, and GitHub Actions. Full-stack velocity meets DevOps rigor.
-
-### Snapshot
-
-| Metric | Value |
-| --- | --- |
-| Projects | 20+ |
-| Certifications | 9+ |
-| Clouds | AWS / Azure / GCP |
-
 ## About
 
-Two mindsets. One engineer.
+Full-stack developer with production deployment experience across IoT automation, AI/ML systems, and cloud infrastructure. Delivered an institute-approved React and Node.js platform controlling 100+ devices across 10+ classrooms. Built and deployed 5+ applications using the MERN stack, AWS, TypeScript, and PostgreSQL. Completed four internships in full-stack development, cloud computing, and AI/ML, with 16+ months of experience.
 
-I am a cloud-native full-stack developer based in Bengaluru, pursuing my MCA while building systems that solve real problems. I believe great software is delivered: tested, containerized, observed, and shipped with confidence.
+## Highlights
 
-## Skills
+- 4 internships and 5+ deployed applications
+- IoT automation platform serving 10+ classrooms and 100+ devices
+- AWS experience with EC2, S3, Lambda, and IAM
+- Full-stack development with React, Node.js, MongoDB, and PostgreSQL
 
-### The Developer
+## Technical Skills
 
-Builder
-
-I architect and ship full-stack apps with MERN, Next.js, and FastAPI.
-
-- React / Next.js
-- Node.js / FastAPI
-- MongoDB / MySQL
-- TypeScript
-
-### The DevOps Engineer
-
-Operator
-
-I containerize, automate, and deploy from Dockerfiles to Terraform on AWS and CI/CD in GitHub Actions.
-
-- AWS (EC2, S3, ECS, Lambda, CloudFront)
-- Docker / Docker Compose
-- Terraform / IaC
-- GitHub Actions CI/CD
-
-### Tech Stack
-
-- Frontend: React, Next.js, TypeScript, TailwindCSS, Framer Motion
-- Backend: Node.js, FastAPI, Express, REST, GraphQL
-- Cloud: AWS, Docker, Kubernetes, Terraform, NGINX
-- Data: MongoDB, PostgreSQL, Redis
-- Tools: GitHub Actions, Sentry, Linux, Bash, Python
+- **Languages:** JavaScript, TypeScript, Java, SQL, Python
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS, responsive design
+- **Backend:** Node.js, Express.js, REST APIs, middleware, JWT authentication, CRUD
+- **Databases:** MongoDB, MongoDB Atlas, MySQL, PostgreSQL, Supabase
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM), Azure, Google Cloud Platform, Docker, CI/CD, Vercel, Render
+- **IoT & AI/ML:** ESP32, MQTT, Arduino, OpenCV, YOLOv8, DeepFace, TensorFlow.js
+- **Tools:** Git, GitHub, Postman, VS Code, Figma, JIRA, Power BI, Agile/Scrum
 
 ## Experience
 
-### Full Stack & IoT Developer
+### Technical Lead — MANAS360 Mental Wellness Pvt. Ltd.
+**Full-Stack Development & Cloud Deployment · Remote, Bengaluru · Feb–Apr 2026**
 
-AIMS Institutes · Internship · Jul 2025 – Nov 2025 · Bengaluru, Karnataka, India
+- Contributed to the architecture, module design, and technical implementation of a SaaS mental wellness platform.
+- Developed authentication, role-based access control, and core application modules with React, Node.js, and PostgreSQL.
+- Designed REST APIs connecting frontend components, backend services, and PostgreSQL.
+- Collaborated with the Founder & CEO on requirements, sprint planning, technical decisions, and feature delivery.
 
-Designed and deployed AutoVolt, a smart IoT classroom automation system for real-time device control using ESP32 microcontrollers and MQTT. Built a full-stack dashboard with React.js and Node.js for monitoring classroom lights, fans, and electrical devices.
+**Stack:** React.js, Node.js, PostgreSQL, REST APIs, JWT, Git, cloud deployment
 
-- React.js
-- Node.js
-- ESP32
-- MQTT
-- IoT
-- Full-Stack
+### Full Stack & IoT Developer Intern — AIMS Institutes
+**AutoVolt — IoT Classroom Automation Platform · Bengaluru · Jul–Nov 2025**
 
-### Cloud Intern
+- Developed and deployed a cloud-based React, Node.js, and MongoDB platform controlling 100+ devices across 10+ classrooms.
+- Integrated dashboard and backend services with MQTT messaging and JWT-secured role-based access control.
+- Received approval from the institute technical committee and delivered the production-ready system within five months.
+- Applied Git, CI/CD, and structured testing practices.
 
-UptoSkills · Internship · Feb 2025 – May 2025 · Remote
+**Stack:** React.js, Node.js, MongoDB, ESP32, MQTT, JWT, REST APIs, Tailwind CSS, CI/CD
 
-Designed and deployed cloud-based applications using AWS EC2, S3, and Lambda. Architected serverless solutions for performance and cost.
+### Cloud Application Developer — UptoSkills
+**Cloud Computing Internship · Remote · Feb–May 2025**
 
-- AWS EC2
-- S3
-- Lambda
-- IaC
-- Cloud Architecture
+- Deployed three cloud applications on AWS EC2, reducing manual infrastructure setup time by about 40% through scripted configuration.
+- Configured S3 buckets and IAM policies to apply least-privilege access.
+- Implemented Lambda workflows for background processing and worked on uptime monitoring and cloud performance.
 
-### Cloud Computing Intern
+**Stack:** AWS EC2, S3, Lambda, IAM, CI/CD, REST APIs
 
-Tech Mindsparc Innovations · Internship · Sep 2024 – Dec 2024 · Remote
+### Cloud Infrastructure Developer — Tech Mindsparc Innovations
+**Cloud Computing Internship · Remote · Sep–Dec 2024**
 
-Managed multi-cloud deployments across AWS, Azure, and GCP and implemented DevOps automation pipelines.
+- Completed 10+ cloud labs across AWS, Microsoft Azure, and Google Cloud Platform.
+- Practiced cloud environment configuration, access management, resource provisioning, and automation fundamentals.
 
-- AWS
-- Azure
-- GCP
-- DevOps
-- CI/CD
+**Stack:** AWS, Azure, GCP, Docker, GitHub, DevOps
 
-### AI/ML Intern
+### AI/ML Developer — Tech Mindsparc Innovations
+**AI/ML Internship · Remote · Jun–Sep 2024**
 
-Tech Mindsparc Innovations · Internship · Jun 2024 – Sep 2024 · Remote
+- Built two Python machine-learning models for emotion analysis.
+- Preprocessed data and performed exploratory analysis on datasets containing 1,000+ records.
 
-Built and deployed ML models using Python and PyTorch for emotion analysis and predictive modeling.
-
-- Python
-- PyTorch
-- ML
-- Model Training
-- Data Analysis
+**Stack:** Python, machine learning, data preprocessing, EDA
 
 ## Projects
 
-### This Portfolio — Ship it on AWS
+### FarmNexus — Smart Hydroponics Management System
+**May–Sep 2026**
 
-CI/CD, Docker, Terraform, S3 + CloudFront
+- Developed a dashboard for monitoring and managing hydroponic farming operations.
+- Integrated ESP32 sensors for temperature, humidity, water levels, and nutrient-related measurements.
+- Designed device management, crop operations, irrigation scheduling, and analytics features.
 
-- AWS S3
-- CloudFront
-- Terraform
-- GitHub Actions
+**Stack:** React, TypeScript, Supabase, ESP32, MQTT, sensors
 
-### Dockerized MERN on AWS ECS
+### Territory Runner — GPS Geospatial Fitness App
+**Jan–Mar 2026**
 
-Production-ready MERN deployed on Fargate with Terraform.
+- Built a full-stack fitness application using React, TypeScript, Node.js, and Express.
+- Implemented GPS-based territory tracking with the Haversine formula.
+- Designed a PostgreSQL backend for leaderboards, team competitions, and social feeds.
+- Integrated Capacitor for Android packaging and Google Analytics 4 for event tracking.
 
-- React
-- Node.js
-- Express
-- MongoDB Atlas
+**Stack:** TypeScript, React, Vite, Node.js, Express, PostgreSQL, Capacitor
 
-### AutoVolt — Smart IoT Classroom Automation
+### Digital Event & Wedding Invitation Platform
+**Client project · Jun–Jul 2025**
 
-Full-stack MERN + ESP32 + MQTT with AI-driven energy optimization.
+- Developed and deployed a responsive digital invitation and event website.
+- Customized a mobile-first interface with shadcn/ui and Tailwind CSS and configured Vercel deployment.
 
-- React
-- Node.js
-- Express
-- MongoDB
+**Stack:** TypeScript, React, Vite, shadcn/ui, Tailwind CSS, Vercel
 
-### AI Vision Attendance System
+### Resume Genie
+**Jan–May 2025**
 
-Face-recognition attendance with TensorFlow.js + WebRTC.
+- Developed a full-stack resume-building application with AI-assisted resume generation using the Gemini API.
+- Implemented backend APIs and features for creating resumes.
 
-- React (TS)
-- TensorFlow.js
-- BlazeFace
-- WebRTC
+**Stack:** React, Node.js, MongoDB Atlas, JWT, Gemini API, Vercel, REST APIs
 
-### ResumeGenie — AI Resume Builder
+## Education
 
-MERN + Gemini AI for building, optimizing, and chatting your resume into shape.
+### Master of Computer Applications (MCA) — AIMS Institutes, Bengaluru
+**2023–2025**
 
-- React
-- Node.js
-- Express
-- MongoDB
+Coursework: Cloud Computing, Web Technologies, Machine Learning, DSA, DBMS, Operating Systems, Computer Networks
 
-### Live Emotion Detection System
+### Bachelor of Science (BSc) — Nagarjuna College of Management Studies, Chikkaballapur
+**2018–2023**
 
-Real-time emotion recognition with YOLOv8 + DeepFace.
-
-- Python 3.13
-- OpenCV
-- YOLOv8
-- DeepFace
+Coursework: Electronics, Mathematics, Computer Science, DSA, DBMS, Operating Systems, Computer Networks
 
 ## Certifications
 
-- AWS – Job Roles in the Cloud
-- Cloud Computing – Course Completion
-- Microsoft AI Skills Fest – Guinness World Records
-- Data Science, AI & Cyber Security Masterclass
-- Artificial Intelligence – Course Completion
-- Databases for Developers: Foundations
-- Advanced Python Programming
-- Global Virtual Summit – Career & Skill Development
-- Nationwide Webinar (AICTE Verified)
+- AWS Training & Certification — Job Roles in Cloud
+- Oracle — Databases for Developers
+- Microsoft AI Skills Fest 2025
+- Advanced Python — Tech Mindsparc
+- Advanced Excel & Power BI — AIMS Institutes, 2025
 
 ## Contact
 
-Open to full-time and contract roles across full-stack, DevOps, or cloud engineering.
-
-- Email: chandu3548@gmail.com
-- LinkedIn: linkedin.com/in/chandu-d
-- GitHub: github.com/chandud1124
-- Based in: Bengaluru, India · Remote-Ready
-
-### Availability
-
-- Full-Time + Contract
-- Notice period: ~30 days
-- Timezone: GMT+5:30
-- Response: usually < 24h
-
-## Footer
-
-Built with React 18, TypeScript, Vite, Tailwind, Framer Motion, and Mermaid.js.
-
-Shipped via GitHub Actions to AWS S3 + CloudFront provisioned with Terraform.
-
-Back to the live site: [chandugowda.site](https://www.chandugowda.site/)
+- **Email:** [chandu3548@gmail.com](mailto:chandu3548@gmail.com)
+- **Phone:** +91 6362691124
+- **LinkedIn:** [linkedin.com/in/chandu-d](https://www.linkedin.com/in/chandu-d/)
+- **Portfolio:** [chandugowda.site](https://www.chandugowda.site/)
+- **GitHub:** [github.com/chandud1124](https://github.com/chandud1124)
